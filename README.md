@@ -4,6 +4,11 @@ The Player Controller for my dungeon krawler character
 This is the code for my character controller 
 
 
+
+
+
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
